@@ -1,0 +1,8 @@
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\bin\Debug\RemovedorPerfil.exe.config
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\bin\Debug\RemovedorPerfil.exe
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\bin\Debug\RemovedorPerfil.pdb
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\obj\Debug\RemovedorPerfil.csprojResolveAssemblyReference.cache
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\obj\Debug\RemovedorPerfil.exe
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\obj\Debug\RemovedorPerfil.pdb
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\obj\Debug\RemovedorPerfil.MainForm.resources
+C:\Users\v7ba\Documents\SharpDevelop Projects\RemovedorPerfil\RemovedorPerfil\obj\Debug\RemovedorPerfil.csproj.GenerateResource.Cache
